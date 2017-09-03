@@ -239,6 +239,30 @@
             }
         }   */
         
+        @media screen and (max-width: 980px) {
+            #main-container {
+                width: 980px;
+            }
+            #side-bar {
+                width: 980px;
+            }
+            /*   #mast-head {
+                width: 50%;
+            } */
+        }
+        
+        @media screen and (max-width: 768px) {
+            #main-container {
+                width: 768px;
+            }
+            #side-bar {
+                width: 768px;
+            }
+            /*   #mast-head {
+                width: 50%;
+            } */
+        }
+        
         @media screen and (max-width: 640px) {
             #main-container {
                 width: 640px;
